@@ -1,0 +1,13 @@
+# MATLAB / GNU Octave
+*.asv
+*.m~
+*.mat
+*.fig
+octave-workspace
+slprj/
+codegen/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
